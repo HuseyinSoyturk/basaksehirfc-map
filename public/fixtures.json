@@ -1,0 +1,2940 @@
+{
+    "get": "fixtures",
+    "parameters": {
+      "timezone": "Europe/Istanbul",
+      "team": "564",
+      "season": "2024"
+    },
+    "errors": [],
+    "results": 43,
+    "paging": {
+      "current": 1,
+      "total": 1
+    },
+    "response": [
+      {
+        "fixture": {
+          "id": 1190029,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-03-26T03:00:00+03:00",
+          "timestamp": 1711411200,
+          "periods": {
+            "first": 1711411200,
+            "second": 1711414800
+          },
+          "venue": {
+            "id": null,
+            "name": "Başakşehir 3 Nolu Saha",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Club Friendlies 2"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": true
+          },
+          "away": {
+            "id": 3609,
+            "name": "Tuzlaspor",
+            "logo": "https://media.api-sports.io/football/teams/3609.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1190155,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-03-26T17:00:00+03:00",
+          "timestamp": 1711461600,
+          "periods": {
+            "first": 1711461600,
+            "second": 1711465200
+          },
+          "venue": {
+            "id": null,
+            "name": "Başakşehir 3 Nolu Saha",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Club Friendlies 2"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": true
+          },
+          "away": {
+            "id": 7411,
+            "name": "Kocaelispor",
+            "logo": "https://media.api-sports.io/football/teams/7411.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1209498,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-07-10T19:30:00+03:00",
+          "timestamp": 1720629000,
+          "periods": {
+            "first": 1720629000,
+            "second": 1720632600
+          },
+          "venue": {
+            "id": null,
+            "name": "Sportski Centar Fudbalskog saveza Srbije",
+            "city": "Stara Pazova"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2024,
+          "round": "Club Friendlies 2"
+        },
+        "teams": {
+          "home": {
+            "id": 12360,
+            "name": "Železničar Pančevo",
+            "logo": "https://media.api-sports.io/football/teams/12360.png",
+            "winner": false
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237856,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-08-12T21:00:00+03:00",
+          "timestamp": 1723485600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1580,
+            "name": "Çaykur Didi Stadyumu",
+            "city": "Rize"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 1"
+        },
+        "teams": {
+          "home": {
+            "id": 1007,
+            "name": "Rizespor",
+            "logo": "https://media.api-sports.io/football/teams/1007.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237860,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-08-18T19:15:00+03:00",
+          "timestamp": 1723997700,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 2"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 996,
+            "name": "Alanyaspor",
+            "logo": "https://media.api-sports.io/football/teams/996.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237871,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-08-25T19:00:00+03:00",
+          "timestamp": 1724601600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 11925,
+            "name": "Samsun Yeni 19 Mayıs Stadyumu",
+            "city": "Samsun"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 3"
+        },
+        "teams": {
+          "home": {
+            "id": 3603,
+            "name": "Samsunspor",
+            "logo": "https://media.api-sports.io/football/teams/3603.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237877,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-09-01T19:00:00+03:00",
+          "timestamp": 1725206400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 4"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1005,
+            "name": "Antalyaspor",
+            "logo": "https://media.api-sports.io/football/teams/1005.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237893,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-09-15T19:00:00+03:00",
+          "timestamp": 1726416000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 2385,
+            "name": "Bodrum İlçe Stadı",
+            "city": "Bodrum"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 5"
+        },
+        "teams": {
+          "home": {
+            "id": 3583,
+            "name": "BB Bodrumspor",
+            "logo": "https://media.api-sports.io/football/teams/3583.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237903,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-09-29T19:00:00+03:00",
+          "timestamp": 1727625600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 20425,
+            "name": "BG Group 4 Eylül Stadyumu",
+            "city": "Sivas"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 7"
+        },
+        "teams": {
+          "home": {
+            "id": 1002,
+            "name": "Sivasspor",
+            "logo": "https://media.api-sports.io/football/teams/1002.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237915,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-10-06T19:00:00+03:00",
+          "timestamp": 1728230400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 8"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1001,
+            "name": "Kayserispor",
+            "logo": "https://media.api-sports.io/football/teams/1001.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237927,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-10-20T19:00:00+03:00",
+          "timestamp": 1729440000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 20189,
+            "name": "Papara Park",
+            "city": "Trabzon"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 9"
+        },
+        "teams": {
+          "home": {
+            "id": 998,
+            "name": "Trabzonspor",
+            "logo": "https://media.api-sports.io/football/teams/998.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237933,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-10-27T19:00:00+03:00",
+          "timestamp": 1730044800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 10"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3588,
+            "name": "Eyüpspor",
+            "logo": "https://media.api-sports.io/football/teams/3588.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237942,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-11-03T20:00:00+03:00",
+          "timestamp": 1730653200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Medaş Konya Büyükşehir Stadyumu",
+            "city": "Konya"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 11"
+        },
+        "teams": {
+          "home": {
+            "id": 607,
+            "name": "Konyaspor",
+            "logo": "https://media.api-sports.io/football/teams/607.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237950,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-11-10T20:00:00+03:00",
+          "timestamp": 1731258000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 12"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 549,
+            "name": "Besiktas",
+            "logo": "https://media.api-sports.io/football/teams/549.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237965,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-11-24T20:00:00+03:00",
+          "timestamp": 1732467600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 20118,
+            "name": "Kalyon Stadyumu",
+            "city": "Gaziantep"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 13"
+        },
+        "teams": {
+          "home": {
+            "id": 3573,
+            "name": "Gazişehir Gaziantep",
+            "logo": "https://media.api-sports.io/football/teams/3573.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237967,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-12-01T20:00:00+03:00",
+          "timestamp": 1733072400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 14"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 994,
+            "name": "Goztepe",
+            "logo": "https://media.api-sports.io/football/teams/994.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237981,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-12-08T20:00:00+03:00",
+          "timestamp": 1733677200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 15"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3575,
+            "name": "Hatayspor",
+            "logo": "https://media.api-sports.io/football/teams/3575.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237992,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-12-15T20:00:00+03:00",
+          "timestamp": 1734282000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1581,
+            "name": "Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 16"
+        },
+        "teams": {
+          "home": {
+            "id": 611,
+            "name": "Fenerbahce",
+            "logo": "https://media.api-sports.io/football/teams/611.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1237999,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2024-12-22T20:00:00+03:00",
+          "timestamp": 1734886800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 17"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1004,
+            "name": "Kasimpasa",
+            "logo": "https://media.api-sports.io/football/teams/1004.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238006,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-01-05T20:00:00+03:00",
+          "timestamp": 1736096400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 11924,
+            "name": "Yeni Adana Stadyumu",
+            "city": "Adana"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 18"
+        },
+        "teams": {
+          "home": {
+            "id": 3563,
+            "name": "Adana Demirspor",
+            "logo": "https://media.api-sports.io/football/teams/3563.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238017,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-01-12T20:00:00+03:00",
+          "timestamp": 1736701200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 19"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 645,
+            "name": "Galatasaray",
+            "logo": "https://media.api-sports.io/football/teams/645.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238022,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-01-19T20:00:00+03:00",
+          "timestamp": 1737306000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 20"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1007,
+            "name": "Rizespor",
+            "logo": "https://media.api-sports.io/football/teams/1007.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238032,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-01-26T20:00:00+03:00",
+          "timestamp": 1737910800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19219,
+            "name": "Kırbıyık Holding Stadyumu",
+            "city": "Alanya"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 21"
+        },
+        "teams": {
+          "home": {
+            "id": 996,
+            "name": "Alanyaspor",
+            "logo": "https://media.api-sports.io/football/teams/996.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238039,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-02-02T20:00:00+03:00",
+          "timestamp": 1738515600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 22"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3603,
+            "name": "Samsunspor",
+            "logo": "https://media.api-sports.io/football/teams/3603.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238050,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-02-09T20:00:00+03:00",
+          "timestamp": 1739120400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19220,
+            "name": "Corendon Airlines Park",
+            "city": "Antalya"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 23"
+        },
+        "teams": {
+          "home": {
+            "id": 1005,
+            "name": "Antalyaspor",
+            "logo": "https://media.api-sports.io/football/teams/1005.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238058,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-02-16T20:00:00+03:00",
+          "timestamp": 1739725200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 24"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3583,
+            "name": "BB Bodrumspor",
+            "logo": "https://media.api-sports.io/football/teams/3583.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238078,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-03-02T20:00:00+03:00",
+          "timestamp": 1740934800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 26"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 1002,
+            "name": "Sivasspor",
+            "logo": "https://media.api-sports.io/football/teams/1002.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238085,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-03-09T20:00:00+03:00",
+          "timestamp": 1741539600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 19613,
+            "name": "RHG Enertürk Enerji Stadyumu",
+            "city": "Kayseri"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 27"
+        },
+        "teams": {
+          "home": {
+            "id": 1001,
+            "name": "Kayserispor",
+            "logo": "https://media.api-sports.io/football/teams/1001.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238093,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-03-16T20:00:00+03:00",
+          "timestamp": 1742144400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 28"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 998,
+            "name": "Trabzonspor",
+            "logo": "https://media.api-sports.io/football/teams/998.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238108,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-03-30T20:00:00+03:00",
+          "timestamp": 1743354000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 2390,
+            "name": "Eyüp Stadı",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 29"
+        },
+        "teams": {
+          "home": {
+            "id": 3588,
+            "name": "Eyüpspor",
+            "logo": "https://media.api-sports.io/football/teams/3588.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238111,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-04-06T19:00:00+03:00",
+          "timestamp": 1743955200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 30"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 607,
+            "name": "Konyaspor",
+            "logo": "https://media.api-sports.io/football/teams/607.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238120,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-04-13T19:00:00+03:00",
+          "timestamp": 1744560000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 20423,
+            "name": "Tüpraş Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 31"
+        },
+        "teams": {
+          "home": {
+            "id": 549,
+            "name": "Besiktas",
+            "logo": "https://media.api-sports.io/football/teams/549.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238130,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-04-20T19:00:00+03:00",
+          "timestamp": 1745164800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 32"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3573,
+            "name": "Gazişehir Gaziantep",
+            "logo": "https://media.api-sports.io/football/teams/3573.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238144,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-04-27T19:00:00+03:00",
+          "timestamp": 1745769600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1583,
+            "name": "Göztepe Gürsel Aksel Stadı",
+            "city": "İzmir"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 33"
+        },
+        "teams": {
+          "home": {
+            "id": 994,
+            "name": "Goztepe",
+            "logo": "https://media.api-sports.io/football/teams/994.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238154,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-05-04T19:00:00+03:00",
+          "timestamp": 1746374400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 8392,
+            "name": "Mersin Stadyumu",
+            "city": "Mersin"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 34"
+        },
+        "teams": {
+          "home": {
+            "id": 3575,
+            "name": "Hatayspor",
+            "logo": "https://media.api-sports.io/football/teams/3575.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238160,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-05-11T19:00:00+03:00",
+          "timestamp": 1746979200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 35"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 611,
+            "name": "Fenerbahce",
+            "logo": "https://media.api-sports.io/football/teams/611.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238170,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-05-18T19:00:00+03:00",
+          "timestamp": 1747584000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1585,
+            "name": "Recep Tayyip Erdoğan Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 36"
+        },
+        "teams": {
+          "home": {
+            "id": 1004,
+            "name": "Kasimpasa",
+            "logo": "https://media.api-sports.io/football/teams/1004.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238179,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-05-25T19:00:00+03:00",
+          "timestamp": 1748188800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 37"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3563,
+            "name": "Adana Demirspor",
+            "logo": "https://media.api-sports.io/football/teams/3563.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1238183,
+          "referee": null,
+          "timezone": "Europe/Istanbul",
+          "date": "2025-06-01T19:00:00+03:00",
+          "timestamp": 1748793600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "RAMS Park",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Time to be defined",
+            "short": "TBD",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 203,
+          "name": "Süper Lig",
+          "country": "Turkey",
+          "logo": "https://media.api-sports.io/football/leagues/203.png",
+          "flag": "https://media.api-sports.io/flags/tr.svg",
+          "season": 2024,
+          "round": "Regular Season - 38"
+        },
+        "teams": {
+          "home": {
+            "id": 645,
+            "name": "Galatasaray",
+            "logo": "https://media.api-sports.io/football/teams/645.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1250970,
+          "referee": "Milos Boskovic, Montenegro",
+          "timezone": "Europe/Istanbul",
+          "date": "2024-07-25T20:45:00+03:00",
+          "timestamp": 1721929500,
+          "periods": {
+            "first": 1721929500,
+            "second": 1721933100
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 848,
+          "name": "UEFA Europa Conference League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/848.png",
+          "flag": null,
+          "season": 2024,
+          "round": "2nd Qualifying Round"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": true
+          },
+          "away": {
+            "id": 2249,
+            "name": "La Fiorita",
+            "logo": "https://media.api-sports.io/football/teams/2249.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 6,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 4,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 6,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1250971,
+          "referee": "Granit Maqedonci, Sweden",
+          "timezone": "Europe/Istanbul",
+          "date": "2024-08-01T21:45:00+03:00",
+          "timestamp": 1722537900,
+          "periods": {
+            "first": 1722537900,
+            "second": 1722541500
+          },
+          "venue": {
+            "id": 2616,
+            "name": "Stadio Olimpico di Serravalle",
+            "city": "Serravalle"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+          }
+        },
+        "league": {
+          "id": 848,
+          "name": "UEFA Europa Conference League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/848.png",
+          "flag": null,
+          "season": 2024,
+          "round": "2nd Qualifying Round"
+        },
+        "teams": {
+          "home": {
+            "id": 2249,
+            "name": "La Fiorita",
+            "logo": "https://media.api-sports.io/football/teams/2249.png",
+            "winner": false
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1274825,
+          "referee": "D. Dickinson",
+          "timezone": "Europe/Istanbul",
+          "date": "2024-08-08T19:00:00+03:00",
+          "timestamp": 1723132800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 2302,
+            "name": "Mikheil Meskhis sakhelobis Stadioni",
+            "city": "Tbilisi"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 848,
+          "name": "UEFA Europa Conference League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/848.png",
+          "flag": null,
+          "season": 2024,
+          "round": "3rd Qualifying Round"
+        },
+        "teams": {
+          "home": {
+            "id": 3502,
+            "name": "Saburtalo",
+            "logo": "https://media.api-sports.io/football/teams/3502.png",
+            "winner": null
+          },
+          "away": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1274826,
+          "referee": "P. Raczkowski",
+          "timezone": "Europe/Istanbul",
+          "date": "2024-08-15T20:45:00+03:00",
+          "timestamp": 1723743900,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1584,
+            "name": "Başakşehir Fatih Terim Stadyumu",
+            "city": "İstanbul"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null
+          }
+        },
+        "league": {
+          "id": 848,
+          "name": "UEFA Europa Conference League",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/848.png",
+          "flag": null,
+          "season": 2024,
+          "round": "3rd Qualifying Round"
+        },
+        "teams": {
+          "home": {
+            "id": 564,
+            "name": "Istanbul Basaksehir",
+            "logo": "https://media.api-sports.io/football/teams/564.png",
+            "winner": null
+          },
+          "away": {
+            "id": 3502,
+            "name": "Saburtalo",
+            "logo": "https://media.api-sports.io/football/teams/3502.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
+  }
